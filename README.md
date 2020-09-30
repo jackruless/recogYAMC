@@ -1,0 +1,3 @@
+# recogYAMC
+MACHINE LEARNING
+通过机器学习EACHALE MACHINE，智能识别身体构造--YMAC.
